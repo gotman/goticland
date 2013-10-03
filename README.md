@@ -53,7 +53,7 @@ Gothic-Crimean fortress of Mangup
 <br>
 <br>
 <h3>Few stats:</h3>
-<br>
+
 Unique visitors since the beginning: 412
 <br>
 Pages quantity: 6
