@@ -58,6 +58,7 @@ Unique visitors since the beginning: 412
 <br>
 Pages quantity: 6
 <br>
+<br>
 Structure of visitors by country:
 <br>
 USA: 45%
@@ -69,4 +70,7 @@ Croatia: 6%
 Australia : 3%
 
 Greece: 3%
+<br>
+<br>
+Lines of code (libs not included): 3220
 
