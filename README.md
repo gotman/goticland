@@ -37,7 +37,7 @@ However I still have many positive emotions about this very first web (private) 
 
 
 <br><br>
-Goticland's table of contents:
+<h3>Goticland's table of contents:</h3>
 
 Section 1: Goths' firts steps in Gothiskandza
 
@@ -50,4 +50,23 @@ Section 4: Goths in the crimean peninsula
 Gothic-Crimean fortress of Eski-Kermen
 
 Gothic-Crimean fortress of Mangup
+<br>
+<br>
+<h3>Few stats:</h3>
+<br>
+Unique visitors since the beginning: 412
+<br>
+Pages quantity: 6
+<br>
+Structure of visitors by country:
+<br>
+USA: 45%
+
+Poland: 32%
+
+Croatia: 6%
+
+Australia : 3%
+
+Greece: 3%
 
